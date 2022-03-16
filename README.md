@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[5]: https://www.linkedin.com/in/aaryamann-challani-57a3a0170/
-[6]: http://www.github.com/aaryamannchallani
+[5]: https://www.linkedin.com/in/aaryamannc
+[6]: http://www.github.com/rymnc
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
