@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Blockchain, Automation, Robotics
 - 👯 I’m looking to collaborate on: Anything Automation!
 - 🤔 I’m looking for help with: Blockchain resources
+- 📝 Check out my [blog](https://rymnc.com)
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
