@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 --->
-- 🌱 I’m currently learning: Blockchain, Automation, Robotics
-- 👯 I’m looking to collaborate on: Anything Automation!
-- 🤔 I’m looking for help with: Blockchain resources
+- 🌱 I build kickass things
+- 👯 Automate parts of my job so I can sleep soundly at night
+- 🤔 Stay up all night automating parts of my job
 - 📝 Check out my [blog](https://rymnc.com)
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
