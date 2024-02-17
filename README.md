@@ -1,6 +1,3 @@
-### Hi there 👋
+### Hi 👋
 
- I build kickass things
-
-
-
+rust/huff master race
